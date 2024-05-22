@@ -1,8 +1,6 @@
 # Youtube_Usage
 Exploring My Youtube Usage
 
-
-
 The first step in dealing with addiction is recognizing it. For me, YouTube has been mainly for fun and learning. I’ve learned a lot from it, especially when studying for exams. It’s also a great place for music and entertainment. But sometimes, I get carried away and spend a lot of time on it, which can be hard to break away from.
 
 I was searching for a one-of-a-kind dataset to enhance my data analysis project for my portfolio, and I believe nothing is more unique than my personal YouTube history. By analyzing my history data I will try to minimize my usage of youtube and only use it when I need it.
